@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		022F44C32948699D0093644A /* OffsetModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022F44C22948699D0093644A /* OffsetModifier.swift */; };
 		025E10F8294715760096C514 /* ContactScrollAnimation1212App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025E10F7294715760096C514 /* ContactScrollAnimation1212App.swift */; };
 		025E10FA294715760096C514 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025E10F9294715760096C514 /* ContentView.swift */; };
 		025E10FC294715780096C514 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 025E10FB294715780096C514 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		022F44C22948699D0093644A /* OffsetModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffsetModifier.swift; sourceTree = "<group>"; };
 		025E10F4294715760096C514 /* ContactScrollAnimation1212.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactScrollAnimation1212.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		025E10F7294715760096C514 /* ContactScrollAnimation1212App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactScrollAnimation1212App.swift; sourceTree = "<group>"; };
 		025E10F9294715760096C514 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				025E1109294718AC0096C514 /* Home.swift */,
+				022F44C22948699D0093644A /* OffsetModifier.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 			files = (
 				025E1108294715FD0096C514 /* Character.swift in Sources */,
 				025E10FA294715760096C514 /* ContentView.swift in Sources */,
+				022F44C32948699D0093644A /* OffsetModifier.swift in Sources */,
 				025E110A294718AC0096C514 /* Home.swift in Sources */,
 				025E10F8294715760096C514 /* ContactScrollAnimation1212App.swift in Sources */,
 			);
